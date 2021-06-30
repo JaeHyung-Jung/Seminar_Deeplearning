@@ -6,8 +6,8 @@
 # 발표 계획
 
 ## 1주차(`19.7.7) : FasterRCNN
-- FasterRCNN 모델 구조 및 이론
-- Data Foramt 정리 : .XML, .CSV, .JSON
+- FasterRCNN 모델 구조 및 이론(중점적으로 다뤄야함, RCNN -> Fast_RCNN -> Faster_RCNN순으로 설명하면될듯)
+- Data Foramt 정리 : .XML, .CSV, .JSON(1page정도로 요약)
 - 민재형, 승수형 NAS 발표자료 참고
 
 ## 2주차(`19.7.15) : Yolo - V1
