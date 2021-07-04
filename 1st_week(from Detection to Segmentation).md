@@ -76,10 +76,10 @@ Selective Search는 RCNN에 쓰였으며 이미지에서 랜덤한 bounding box�
 
 # Segmentation
 ## Instance, Semantic
-![image](https://user-images.githubusercontent.com/79160507/124398904-310ea700-dd53-11eb-9363-64d4658108b9.png)
+![image](https://user-images.githubusercontent.com/79160507/124398904-310ea700-dd53-11eb-9363-64d4658108b9.png)   
 Instance Segmentation은 모든 객체를 따로 분류하여 Segmentaion해준다.
 
-![image](https://user-images.githubusercontent.com/79160507/124398908-32d86a80-dd53-11eb-9100-a64babdb35df.png)
+![image](https://user-images.githubusercontent.com/79160507/124398908-32d86a80-dd53-11eb-9100-a64babdb35df.png)   
 semantic Segmentation은 같은 class끼리의 객체를 묶어서 Segmentation해준다.
 
 
