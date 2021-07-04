@@ -24,6 +24,7 @@ NMS는 Non-Maximum-Supression으로
 
 ## mAP
 
+## ++
 #### Region Proposal : object가 있을 만한 영역을 다수 추천
 
 #### Bounding Box Regression : Object영역을 미세조정
