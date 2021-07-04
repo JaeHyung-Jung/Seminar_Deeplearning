@@ -25,8 +25,8 @@ Object_Detection에서는 ' '가 대표적이다.
 RPN은 Faster R-CNN에서 활용되었는데, Faster R-CNN의 목표는 selective search 없이 RPN을 학습하는 구조로 모델을 만드는 것이다. 
 RPN은 feature map을 input으로, RP를 output으로 하는 네트워크라고 할 수 있고, selective search의 역할을 온전히 대체한다.
 
-### 
-1. CNN을 통해 뽑아낸 feature map을 입력으로 받는다. 이 때, feature map의 크기를 H*W*C(세로*가로*채널수)로 잡는다.
+### RPN의 구조   
+1. CNN을 통해 뽑아낸 feature map을 입력으로 받는다. 이 때, feature map의 크기를 H x W x C(세로 x 가로 x 채널수)로 잡는다.
 2. feature map에 3x3 convolution을 256 channel (or 512 channel)만큼 수행한다. 이 때, padding을 1로 설정해주어 H x W가 보존되도록 진행하며, intermediate layer 수행 결과 H*W*256 (or 512) 크기의 두 번째 featur map을 얻는다.
 3. 2번째 feature map을 입력으로하여 classification(cls layer)과 bounding box regression(reg layer) 예측 값을 계산한다.
 +) 이 과정은 Fully Connected Layer가 아니라 1 x 1 컨볼루션을 이용하여 계산하는 Fully Convolution Network의 특징을 갖는다. 이는 입력 이미지의 크기에 상관없이 동작할 수 있도록 하기 위함이며 자세한 내용은 Fully Convolution Network을 참고하길 바란다.
