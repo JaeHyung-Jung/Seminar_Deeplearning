@@ -2,7 +2,7 @@
 
 ## IoU 
 iou = intersection over Union
-![image](https://user-images.githubusercontent.com/79160507/124384251-5081e180-dd0b-11eb-8697-8f6284cc2449.png)
+![image](https://user-images.githubusercontent.com/79160507/124384251-5081e180-dd0b-11eb-8697-8f6284cc2449.png)   
 두 Box의 교집합 영역 넓이 / 합집합 영역 넓이
 
 일반적으로 IoU의 threshold를 0.5로 잡아 사용한다.
