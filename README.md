@@ -2,7 +2,7 @@
 발표시간은 인당 10 ~ 15분이며 모든 발표가 끝나면 질문이나 논문리뷰를 10~15분하여 총 세미나시간은 1시간이 됨   
 
 #
-# 발표 계획
+# 주간 계획
 
 ## 1주차(`21.7.5) : FasterRCNN + 1Stage_Detector Milestones(RCNN-SPPNet-FastRCNN-FasterRCNN)
 - 무엇을했는지(말벌집 돌리는 과정, 오류해결 어떻게했는지를 중점적으로) 3page
