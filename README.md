@@ -20,15 +20,18 @@
 - Training_Loss의 수렴과정 보이기, +mAP개선
 - Loss(Cross_entropy, Smooth_L1)의 실제 코드를 통한 계산과정 분석
 
-## 2주차(`21.7.14) : 1Stage-Detector 
-- 1Stage-Detector (Yolo_V(n), SSD, EfficientDet) 모델 구조 및 이론정리
+## 2주차(`21.7.16) : 1Stage-Detector 
+- 1Stage-Detector (Yolo_V(n), SSD, FPN, EfficientDet(+Net)) 모델 구조 및 이론정리
 
-## 2주차-2(`21.7.16) : 1Stage-Detector
-- 1Stage-Detector : EfficientDet으로 CustomData 실습
-- 위 과정에서 Backbone 교체하면서 실습, 결과내오기
+## 3주차-1 (`21.7.19) : Segmentation_DeepLab-V3
+- 1Stage_Detector 발표 feedback 코드분석을 통한 실습
+  - Fully Connected, Convolutio Network 차이
+  - IoU 구하는 코드 분석
+  - SSD기준 BB 구하는 코드 분석(List)
+  - Yolo와 SSD의 Loss차이 코드분석
+  - 각 층에서 FPN을 사용할때 어떻게 불러오고 어떻게 서로 섞어주는지 코드분석 : Bi-FPN, FPN
 
-## 3주차(`19.7.22) : Segmentation_DeepLab-V3
-- 미정
+## 3주차-2 (`21.7.DD)
 
 ## 4주차(`19.7.29) : Data Augmentation + Loss Function 정리
 - 미정
