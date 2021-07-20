@@ -32,6 +32,10 @@
   - 각 층에서 FPN을 사용할때 어떻게 불러오고 어떻게 서로 섞어주는지 코드분석 : Bi-FPN, FPN
 
 ## 3주차-2 (`21.7.DD)
+  - BiFPN 코드분석
+  - Loss 정리(Focal_loss와 Cross_Entropy 비교)
+  - Data Augmentation
+  - Ensemble(Multi-Scale Inference)
 
 ## 4주차(`19.7.29) : Data Augmentation + Loss Function 정리
 - 미정
