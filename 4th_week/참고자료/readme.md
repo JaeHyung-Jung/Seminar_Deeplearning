@@ -5,7 +5,7 @@ https://github.com/tensorflow/models/tree/master/research/slim
 model : https://github.com/tensorflow/models/blob/master/research/slim/nets/inception_resnet_v2.py
 
 
-## Human Dataset :
+# Human Dataset :
 
 #### MP2 HumanData
 Data Feature : Only 1person with specific pose.
