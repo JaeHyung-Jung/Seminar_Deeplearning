@@ -36,7 +36,15 @@
   - Data Augmentation
   - Ensemble(Multi-Scale Inference)
 
-## 4주차(`19.7.27) : InceptionResnet 코드짜기, Human Dataset setting
+## 4주차(`21.7.27) : InceptionResnet 코드짜기, Human Dataset setting
 - Inception Resnet backbone 짜기(Auxilary layer는 빼고 Concat, Shortcut필수 layer depth 줄이고 구조와 기능을 중점적으로)
 - Human Dataset 다운로드
+
+## 5주차(`21..) :
+
+## 6주차(`21..) :
+
+## 7주차(`21..) :
+
+## 8주차(`21..) :
 
