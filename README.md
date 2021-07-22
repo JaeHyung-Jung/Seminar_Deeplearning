@@ -30,11 +30,13 @@
   - Yolo와 SSD의 Loss차이 코드분석
   - 각 층에서 FPN을 사용할때 어떻게 불러오고 어떻게 서로 섞어주는지 코드분석 : Bi-FPN, FPN
 
-## 3주차-2 (`21.7.DD)
+## 3주차-2 (`21.7.22)
   - BiFPN 코드분석
   - Loss 정리(Focal_loss와 Cross_Entropy 비교)
   - Data Augmentation
   - Ensemble(Multi-Scale Inference)
 
-## 4주차(`19.7.29) : Data Augmentation + Loss Function 정리
-- 미정
+## 4주차(`19.7.27) : InceptionResnet 코드짜기, Human Dataset setting
+- Inception Resnet backbone 짜기(Auxilary layer는 빼고 Concat, Shortcut필수 layer depth 줄이고 구조와 기능을 중점적으로)
+- Human Dataset 다운로드
+
