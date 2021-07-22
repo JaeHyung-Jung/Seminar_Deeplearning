@@ -9,7 +9,7 @@ model : https://github.com/tensorflow/models/blob/master/research/slim/nets/ince
 
 #### MP2 HumanData
 Data Feature : Only 1person with specific pose.   
-Data Size : (Data 12.9GB / Annot 12.5MB)   
+Data Size : (Data 12.9GB / Annot 12.5MB / 25K images)   
 Link : http://human-pose.mpi-inf.mpg.de/#download   
 
 #### INRIA PersonData 
