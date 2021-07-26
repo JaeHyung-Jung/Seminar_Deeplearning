@@ -24,5 +24,7 @@ Link : https://www.cis.upenn.edu/~jshi/ped_html/
 
 #### CrowdHuman
 Data Feature : Many pedestrian(train, val, test)   
-Data Size : GB / annot   
+Data Size : (Data 8.6GB / Annot(format : odgt, 80.0MB / 15K images)  
+Data Size(val) : (Data 2.6GB / Annot(format : odgt, 23.3MB / 4.37K images)  
+Data Size(Test) : (Data 3.3GB / Annot X / 5K images)  
 Link : http://www.crowdhuman.org/download.html    
