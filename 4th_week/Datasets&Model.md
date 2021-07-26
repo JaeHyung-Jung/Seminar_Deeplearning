@@ -1,8 +1,13 @@
 # Inpcetion-Resnet V2
-Inception-ResNet V2 References : 
-https://github.com/tensorflow/models/tree/master/research/slim
+## Paper Link : https://arxiv.org/abs/1602.07261
 
-model : https://github.com/tensorflow/models/blob/master/research/slim/nets/inception_resnet_v2.py
+#### Pytorch Classification
+https://github.com/zhulf0804/Inceptionv4_and_Inception-ResNetv2.PyTorch
+
+#### TF-slim classification
+Inception-ResNet V2 References : 
+https://github.com/tensorflow/models/tree/master/research/slim ==> tensroflow is shit. Don't use this (reason of version dependencies)
+model : https://github.com/tensorflow/models/blob/master/research/slim/nets/inception_resnet_v2.py(shit because of same reason)
 
 
 # Human Dataset :
