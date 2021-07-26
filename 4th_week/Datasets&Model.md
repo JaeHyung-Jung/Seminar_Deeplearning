@@ -13,7 +13,7 @@ Data Size : (Data 12.9GB / Annot 12.5MB / 25K images)
 Link : http://human-pose.mpi-inf.mpg.de/#download   
 
 #### INRIA PersonData 
-Data Feature : Casual People & People with bike
+Data Feature : Casual People & People with bike   
 Data Size : (Data 700MB / Annot X / 772 images), (Data 193.5MB / Annot X / 193.5MB : Bike people)   
 Link : http://pascal.inrialpes.fr/data/human/   
 
