@@ -13,41 +13,16 @@ Data Size : (Data 12.9GB / Annot 12.5MB / 25K images)
 Link : http://human-pose.mpi-inf.mpg.de/#download   
 
 #### INRIA PersonData 
-Data Feature :    
-Data Size :    
+Data Feature : Casual People & People with bike
+Data Size : (Data 700MB / Annot X / 772 images), (Data 193.5MB / Annot X / 193.5MB : Bike people)
 Link : http://pascal.inrialpes.fr/data/human/   
 
 #### PennFudanPed
-Data Feature :    
-Data Size :    
-Link :     
+Data Feature : Casual Pedestrians(most of images is two or more people)   
+Data Size : (Data 53.2MB / Annot 170.6KB / 170 images)
+Link : https://www.cis.upenn.edu/~jshi/ped_html/    
 
 #### CrowdHuman
 Data Feature : Many pedestrian(train, val, test)   
 Data Size : GB / annot
 Link : http://www.crowdhuman.org/download.html    
-
-#### 
-Data Feature :    
-Data Size :    
-Link :     
-
-#### 
-Data Feature :    
-Data Size :    
-Link :     
-
-#### 
-Data Feature :    
-Data Size :    
-Link :     
-
-#### 
-Data Feature :    
-Data Size :    
-Link :     
-
-#### 
-Data Feature :    
-Data Size :    
-Link :     
