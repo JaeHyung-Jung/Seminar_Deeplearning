@@ -2,6 +2,8 @@
 ## Paper Link : https://arxiv.org/abs/1602.07261
 ### Inception Architecture : https://hoya012.github.io/blog/deeplearning-classification-guidebook-2/
 
+## Inception 돌리는 코드(간소화된것) : https://medium.com/the-owl/building-inception-resnet-v2-in-keras-from-scratch-a3546c4d93f0
+
 https://norman3.github.io/papers/docs/google_inception.html
 
 #### Pytorch Classification (1)   
