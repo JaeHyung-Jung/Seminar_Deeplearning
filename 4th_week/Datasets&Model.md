@@ -1,6 +1,8 @@
 # Inpcetion-Resnet V2
 ## Paper Link : https://arxiv.org/abs/1602.07261
-### Inception Architecture : https://norman3.github.io/papers/docs/google_inception.html
+### Inception Architecture : https://hoya012.github.io/blog/deeplearning-classification-guidebook-2/
+
+https://norman3.github.io/papers/docs/google_inception.html
 
 #### Pytorch Classification (1)   
 https://deep-learning-study.tistory.com/537   
